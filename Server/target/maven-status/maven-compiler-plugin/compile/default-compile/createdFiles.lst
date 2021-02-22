@@ -1,0 +1,10 @@
+ru\itis\game\CannotPlaceSnakeException.class
+ru\itis\game\GameMap.class
+ru\itis\game\Tile.class
+ru\itis\server\Connection.class
+ru\itis\server\Message.class
+ru\itis\server\ProtocolInputStream.class
+ru\itis\game\Snake.class
+ru\itis\server\ProtocolOutputStream.class
+ru\itis\server\Protocol.class
+ru\itis\server\Server.class
