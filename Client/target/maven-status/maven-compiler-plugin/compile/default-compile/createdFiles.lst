@@ -1,0 +1,7 @@
+ru\itis\client\Message.class
+ru\itis\client\ProtocolInputStream.class
+ru\itis\client\Protocol.class
+ru\itis\client\GameMap.class
+ru\itis\client\App.class
+ru\itis\client\ProtocolOutputStream.class
+ru\itis\client\Tile.class
